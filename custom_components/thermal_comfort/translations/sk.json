@@ -67,16 +67,16 @@
       "humidex_perception": {
         "state": {
           "comfortable": "Príjemne",
-          "noticable_discomfort": "Noticeable discomfort",
-          "evident_discomfort": "Evident discomfort",
-          "great_discomfort": "Great discomfort, avoid exertion",
-          "dangerous_discomfort": "Dangerous discomfort",
-          "heat_stroke": "Heat stroke possible"
+          "noticable_discomfort": "Znateľné nepohodlie",
+          "evident_discomfort": "Evidentné nepohodlie",
+          "great_discomfort": "Veľké nepohodlie, vyhýbajte sa námahe",
+          "dangerous_discomfort": "Nebezpečné nepohodlie",
+          "heat_stroke": "Úpal možný"
         }
       },
       "relative_strain_perception": {
         "state": {
-          "outside_calculable_range": "Outside of the calculable range",
+          "outside_calculable_range": "Mimo vypočítateľného rozsahu",
           "comfortable": "Príjemne",
           "slight_discomfort": "Mierne nepohodlie",
           "discomfort": "Diskomfort",
